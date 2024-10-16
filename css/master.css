@@ -502,6 +502,14 @@ body {
   padding: top 20px;
   position: relative;
 }
+.hr-5 {
+  width: 150px;
+  height: 5px;
+  background-color: #a18a6a;
+  border: none;
+  border-radius: 50%;
+  margin-left: 100px;
+}
 .content-4 {
   width: 40%;
   height: 400px;
